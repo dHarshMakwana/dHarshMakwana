@@ -18,7 +18,7 @@ Aspiring Junior Full-Stack Developer with a strong command of TypeScript, Next.j
 ![](https://github-profile-trophy.vercel.app/?username=dHarshMakwana&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
