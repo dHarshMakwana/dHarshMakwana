@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Junior Full-Stack Developer with a strong command of TypeScript, Next.js, and Tailwind CSS. Enthusiastic problem-solver committed to delivering elegant solutions and honing my bug-fixing skills. Proficient in crafting stylish interfaces and embracing challenges in Tailwind's versatile styling. Leveraging Expo for mobile expertise. Eager to contribute and grow within the world of web and mobile development.
+Aspiring Full-Stack Developer with a strong command of TypeScript, Next.js, and Tailwind CSS. Enthusiastic problem-solver committed to delivering elegant solutions and honing my bug-fixing skills. Proficient in crafting stylish interfaces and embracing challenges in Tailwind's versatile styling. Leveraging Expo for mobile expertise. Eager to contribute and grow within the world of web and mobile development.
 
 
 ## 🌐 Socials:
